@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Wladigley Status](https://github-readme-stats.vercel.app/api?username=wladigley&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wladigley&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Wladigley Status](https://github-readme-stats.vercel.app/api?username=wladigley&show_icons=true&theme=vue-dark)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wladigley&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+- github stats: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
 -->
